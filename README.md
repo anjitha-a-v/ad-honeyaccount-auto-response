@@ -6,13 +6,13 @@ It detects **failed login attempts on a decoy (honey) admin account**, logs the 
 
 ---
 
-## 🔥 What This Project Does
+##  What This Project Does
 
-Creates a **Honey Admin User** inside Active Directory  
-Enables **Security Auditing for failed logons**  
-Continuously monitors **Event ID 4625 (Failed Logon)**  
-Detects brute-force attempts on the honey user  
-Automatically **disables the attacked account**  
+*Creates a **Honey Admin User** inside Active Directory  
+*Enables **Security Auditing for failed logons**  
+*Continuously monitors **Event ID 4625 (Failed Logon)**  
+*Detects brute-force attempts on the honey user  
+*Automatically **disables the attacked account**  
 Logs all:
  - Attacks
  - Blocked IPs
